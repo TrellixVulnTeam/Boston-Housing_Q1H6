@@ -117,7 +117,7 @@ virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.2
 wcwidth==0.1.7
 webencodings==0.5
-Werkzeug==0.11.10
+Werkzeug==0.15.3
 Whoosh==2.7.4
 widgetsnbextension==2.0.0
 WTForms==2.1
