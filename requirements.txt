@@ -15,7 +15,7 @@ configparser==3.5.0
 coverage==4.2
 cycler==0.10.0
 decorator==4.0.11
-Django==1.11.17
+Django==2.2.24
 django-mongodb-engine==0.5.2
 djangotoolbox==1.6.2
 entrypoints==0.2.2
